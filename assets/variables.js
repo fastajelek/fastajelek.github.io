@@ -10,7 +10,7 @@ const variables = {
     { quote: "Hope you have a great day.", author: "Adhin" },
     { quote: "I like you", author: "Adhin" },
     { quote: "Kamu lucu", author: "Adhin" },
-    { quote: "Fasta peluipa :p", author: "Adhin" },
+    { quote: "Fasta pelupa :p", author: "Adhin" },
   ],
   nicknames: ["Fasta"],
   generated: ["{greetings}, {nicknames}!"],
