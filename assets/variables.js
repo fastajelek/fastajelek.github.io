@@ -11,8 +11,11 @@ const variables = {
     { quote: "I like you", author: "Adhin" },
     { quote: "Kamu lucu", author: "Adhin" },
     { quote: "Fasta pelupa :p", author: "Adhin" },
+    { quote: "Kamu tu mbok ya peka :(", author: "Adhin" },
+    { quote: "Kalo kamu takut, cari aku aja", author: "Adhin" },
+    { quote: "Aku mau jadi orang yg nemenin kamu saat kamu sendirian", author: "Adhin" },
   ],
-  nicknames: ["Fasta"],
+  nicknames: ["Fasta","Tata","Fastal Fahma","Fastal"],
   generated: ["{greetings}, {nicknames}!"],
 };
 
