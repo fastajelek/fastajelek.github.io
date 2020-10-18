@@ -8,11 +8,11 @@ const variables = {
   },
   quotes: [
 
-    { quote: "jangan sedih sedih terus ya, kasihan senyumnya kalo disembunyiin", author: "Adhin" },
-    { quote: "You deserve someone's better", author: "Adhin" },
-    { quote: "Inget ya, bahagiamu yang utama", author: "Adhin" },
-    { quote: "Sini jitak dulu", author: "Adhin" },
-    { quote: "Would you spent more times with me?", author: "Adhin" },
+    { quote: "Thanks for still being here with me :)", author: "Adhin" },
+    { quote: "Kamu udah 'kenal' aku?", author: "Adhin" },
+    { quote: "Mau dielus palanya juga dong, gantian", author: "Adhin" },
+    { quote: "Kamu tu bagaikan tugas belum dikerjain, kepikiran mulu", author: "Adhin" },
+    { quote: "Jangan ke mana mana ya, sama adin aja :)", author: "Adhin" },
     { quote: "Tataa cantik", author: "Adhin" },
   ],
   nicknames: ["Fasta","Tata","Fastal Fahma","Fastal"],
