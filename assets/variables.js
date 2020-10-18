@@ -14,6 +14,7 @@ const variables = {
     { quote: "Kamu tu bagaikan tugas belum dikerjain, kepikiran mulu", author: "Adhin" },
     { quote: "Jangan ke mana mana ya, sama adin aja :)", author: "Adhin" },
     { quote: "Tataa cantik", author: "Adhin" },
+    { quote: "I Love You, bukan karna 14 oktober ya", author: "Adhin" },
   ],
   nicknames: ["Fasta","Tata","Fastal Fahma","Fastal"],
   generated: ["{greetings}, {nicknames}!"],
